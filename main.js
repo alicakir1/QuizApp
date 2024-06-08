@@ -617,7 +617,7 @@ if(document.querySelector("#start")) document.querySelector("#start").addEventLi
   loadQuestion(filter[0])
 });
 
-const loadQuiz = _ => {
+const loadQuiz = _ => { // Ali "lckr" CAKIR
   const Quiz = `
         <div class="d-flex gap-2">
           <p id="questNumber" class="questNumber fw-bolder">1.</p>
