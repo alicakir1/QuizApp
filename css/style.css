@@ -1,0 +1,9 @@
+.app {
+  height: 100vh;
+}
+.time {
+  width: max(5rem, 75%)
+}
+#timeNumber {
+  z-index: 10000;
+}
