@@ -1,7 +1,3 @@
-// import { setupCounter } from './js/counter.js'
-
-// setupCounter(document.querySelector('#counter'))
-
 const app = document.querySelector("#app");
 var options, questTitle, time, timeNumber, timer, qTime, cTimeSeed, questNumber, cNumber = 1;
 const quests = [
